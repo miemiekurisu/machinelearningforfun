@@ -1,0 +1,4 @@
+.vscode/.sftpConfig.json
+.vscode/*
+*.pyc
+logs/*
